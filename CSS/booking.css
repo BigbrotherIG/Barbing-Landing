@@ -162,6 +162,7 @@ nav ul li a {
         width: 100%;
         height: auto;
         text-align: right;
+        padding: 10px 0;
     }
 
     nav ul li {
@@ -170,7 +171,7 @@ nav ul li a {
 
     nav ul li a:hover {
         border: none;
-        border-radius: none;
+        border-radius: 0;
         border-bottom: solid 1.5px #000;
     }
 
